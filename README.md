@@ -1,4 +1,9 @@
 # leaflet-challenge
+
+# Goa:
+The goal is to develop a way to visualize United States Geological Survey data that will allow them to better educate the public and other government organizations on issues facing our planet
+
+# Repo Description:
 In this repo you will find and index.html file to be able to view the map that was created. 
 In the static folder you will find the style.css file inside the css folder which contains the style template for the html. 
 In the static folder you will also find the logic.js file inside the js folder which contains the code for this assignment. 
