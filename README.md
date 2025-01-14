@@ -1,6 +1,6 @@
 # leaflet-challenge
 
-# Goa:
+# Goal:
 The goal is to develop a way to visualize United States Geological Survey data that will allow them to better educate the public and other government organizations on issues facing our planet
 
 # Repo Description:
